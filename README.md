@@ -1,6 +1,6 @@
 # Stock Price Predictor & Investment Simulator
 
-## 🎯 Despre Proiect
+## Despre Proiect
 Acest proiect este o aplicație interactivă concepută pentru a ajuta utilizatorii să înțeleagă mai bine dinamica pieței bursiere, să vizualizeze evoluția prețurilor acțiunilor și să simuleze strategii de investiții pe baza unor modele de predicție.
 
 Am pornit acest proiect din pasiune pură pentru programare cât și pentru bursă, trecând de la simple exerciții la o aplicație modulară.
